@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 07 Apr 2018 13:55:02 at http://sindevo.com/codec/codec-blue/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://sindevo.com/codec/codec-blue/ -O1 "C:\My Web Sites\http___sindevo.com_codec_codec-blue_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:57:24	Error: 	"Not Found" (404) at link sindevo.com/codec/codec-blue/img/i-f7.png (from sindevo.com/codec/codec-blue/css/framework7.css)
+13:57:24	Error: 	"Not Found" (404) at link sindevo.com/codec/codec-blue/img/i-form-name.png (from sindevo.com/codec/codec-blue/css/framework7.css)
+13:57:24	Error: 	"Not Found" (404) at link sindevo.com/codec/codec-blue/img/i-form-password.png (from sindevo.com/codec/codec-blue/css/framework7.css)
+13:57:24	Error: 	"Not Found" (404) at link sindevo.com/codec/codec-blue/img/i-form-email.png (from sindevo.com/codec/codec-blue/css/framework7.css)
+13:57:24	Error: 	"Not Found" (404) at link sindevo.com/codec/codec-blue/img/i-form-calendar.png (from sindevo.com/codec/codec-blue/css/framework7.css)
+13:57:24	Error: 	"Not Found" (404) at link sindevo.com/codec/codec-blue/img/i-form-tel.png (from sindevo.com/codec/codec-blue/css/framework7.css)
+13:57:24	Error: 	"Not Found" (404) at link sindevo.com/codec/codec-blue/img/i-form-gender.png (from sindevo.com/codec/codec-blue/css/framework7.css)
+13:57:24	Error: 	"Not Found" (404) at link sindevo.com/codec/codec-blue/img/i-form-toggle.png (from sindevo.com/codec/codec-blue/css/framework7.css)
+13:57:24	Error: 	"Not Found" (404) at link sindevo.com/codec/codec-blue/img/i-form-comment.png (from sindevo.com/codec/codec-blue/css/framework7.css)
+13:57:24	Error: 	"Not Found" (404) at link sindevo.com/codec/codec-blue/img/i-form-settings.png (from sindevo.com/codec/codec-blue/css/framework7.css)
+13:57:24	Error: 	"Not Found" (404) at link sindevo.com/codec/codec-blue/img/i-form-url.png (from sindevo.com/codec/codec-blue/css/framework7.css)
+13:57:54	Error: 	"Not Found" (404) at link sindevo.com/codec/codec-blue/toogle.html (from sindevo.com/codec/codec-blue/page.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 52 seconds : 137 links scanned, 124 files written (4798321 bytes overall) [3757943 bytes received at 21848 bytes/sec], 1483026 bytes transferred using HTTP compression in 47 files, ratio 24%, 8.5 requests per connection
+(12 errors, 0 warnings, 0 messages)
